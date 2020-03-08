@@ -2,8 +2,7 @@
 
 This Flutter Project is a fundamental Calculator App which does Addition, Subtraction, Multiplication, Floor Division, which uses intuitive UI for great responsiveness.
 
-//![Home Page](demo/demo_homepage.gif)
-//![Quiz Page](demo/demo_quizpage.gif)
+![Home Page](demo/demo.jpeg)
 
 ## Getting Started
 
